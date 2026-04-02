@@ -1,1 +1,1 @@
-Message from main branch
+Greetings from the main and feature branch.
