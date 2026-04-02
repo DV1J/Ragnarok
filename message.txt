@@ -1,2 +1,1 @@
-Change from feature branch
-Change from main
+Greetings from the main and feature branch.
